@@ -96,6 +96,19 @@ But it's actually __FUN__! 🤓 I swear!
 
 ---
 
+# Pricing
+
+* ChatGPT
+  * Limited free, **$20 personal**, $25 for team
+<br/>
+* GitHub Copilot 
+  * **$10 personal**, $19 for team, $39 for enterprise
+<br/>
+* Cursor.sh
+  * Limited free, **$20 personal**, $40 for team
+
+---
+
 # 'nuff said, LET'S GO DEMO TIME!
 
 ```
@@ -128,16 +141,21 @@ But it's actually __FUN__! 🤓 I swear!
 
 ---
 
-# Pricing
+# So, what else is cool?
 
-* ChatGPT
-  * Limited free, **$20 personal**, $25 for team
-<br/>
-* GitHub Copilot 
-  * **$10 personal**, $19 for team, $39 for enterprise
-<br/>
-* Cursor.sh
-  * Limited free, **$20 personal**, $40 for team
+* Studies claim 2-5x increase in productivity for single devs
+* Devin by Cognition ~ solves 13.8% real gh issues unassisted 🤯
+* https://swe-agent.com/ ~ open source competitor, solves 12.2% using GPT4
+* Hugging Face ~ AI models playground for NLP, CV, and more
+
+---
+
+# So, what else is cool?
+
+* We replaced Upworkers with AI agents ($$$)
+* We actively choose between algorithmic and AI solutions for data prepation
+* Use AI to generate suggestions for humans to 5-10x efficiency, while keeping security front and center
+
 
 ---
 
