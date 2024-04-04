@@ -152,7 +152,7 @@ But it's actually __FUN__! 🤓 I swear!
 
 # So, what else is cool?
 
-* We replaced Upworkers with AI agents ($$$)
+* We replaced Upworkers with AI agents 💸
 * We actively choose between algorithmic and AI solutions for data prepation
 * Use AI to generate suggestions for humans to 5-10x efficiency, while keeping security front and center
 
@@ -162,6 +162,7 @@ But it's actually __FUN__! 🤓 I swear!
 # What about the risks?
 
 * Overreliance on capabilities of AI
+* LMMs can be very convincing, but also very wrong
 * Privacy and security
 * Intellectual property rights
 * A muscle unused is a muscle lost
